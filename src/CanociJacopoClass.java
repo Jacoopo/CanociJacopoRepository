@@ -9,7 +9,7 @@
  *         <li>canociMet(int s, int f)
  *         </ol>
  *         </html>
- * @version 1
+ * @version 2
  *
  */
 public class CanociJacopoClass {
@@ -17,7 +17,8 @@ public class CanociJacopoClass {
 	private int s, f;
 
 	/**
-	 * Costrutture della classe CanociJacopoClass
+	 * Costrutture della classe CanociJacopoClass 
+	 * senza attributi
 	 */
 	public CanociJacopoClass() {
 
